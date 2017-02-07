@@ -2,7 +2,7 @@
 (A work in progress)
 
 #### An app to create and organize goals, based on ideas from:
-* **Angela Duckworth's "Grit: The Power of Passion and Perseverance,"**
+* **Angela Duckworth's "Grit: The Power of Passion and Perseverance"**
     * *make a Goal Pyramid*
 * **Daniel Pink's "Drive: The Surprising Truth About What Motivates Us"**
     * *find goals that help you achieve Autonomy, build Mastery and find Purpose*
