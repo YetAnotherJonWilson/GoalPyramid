@@ -1,11 +1,14 @@
 {
   "name": "goal_pyramid",
   "version": "1.0.0",
+  "private": true,
   "description": "An app to create and organize goals, based on ideas from Angela Duckworth's \"Grit: The Power of Passion and Perseverance,\" and Daniel Pink's \"Drive: The Surprising Truth About What Motivates Us\"",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -17,9 +20,12 @@
     "url": "https://github.com/jonwilsonMSP/GoalPyramid/issues"
   },
   "homepage": "https://github.com/jonwilsonMSP/GoalPyramid#readme",
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
   "dependencies": {
-    "angular": "^1.6.1",
     "express": "^4.14.0",
-    "pg": "^6.1.2"
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   }
 }
