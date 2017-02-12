@@ -1,4 +1,4 @@
 {
-    "goal": "",
-    "dailyTask": ""
+    "goals": "Do good",
+    "dailyTasks": ["git commit", "meditate", "do crossword"]
 }
